@@ -9,7 +9,7 @@ This project is built using **HTML, CSS, and JavaScript** and deployed using **N
 
 ## 🚀 Live Demo
 
-🔗 https://your-netlify-link.netlify.app
+🔗 [https://weatherdashboardsanchit17.netlify.app/](https://weatherdashboardsanchit17.netlify.app/)
 
 ---
 
